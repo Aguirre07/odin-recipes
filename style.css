@@ -4,6 +4,12 @@
 
 h1{
     font-weight: 900;
+    text-align: center;
+}
+
+img{
+    margin: auto;
+    display: block;
 }
 
 li{
@@ -28,6 +34,8 @@ button{
     font-size: 20px;
     padding: 12px 20px;
     border-radius: 4px;
+    display: block;
+    margin: auto;
 }
 
 .ingredients{
@@ -41,4 +49,11 @@ button{
 .recipe{
     background-color: black;
     color: white;
+    padding: 12px;
+}
+
+.odinrecipes{
+    display: block;
+    text-align: center;
+    margin-bottom: 4px;
 }
